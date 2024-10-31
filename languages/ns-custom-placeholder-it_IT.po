@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ns-custom-placeholder-image\n"
+"POT-Creation-Date: 2019-01-04 11:32+0100\n"
+"PO-Revision-Date: 2019-01-08 10:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: NsThemes\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:35
+msgid "How to use"
+msgstr "Come usarlo"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:41
+msgid "Premium features"
+msgstr "Impostazioni Premium"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:48
+msgid "Go Premium, get more features and support"
+msgstr "Vai alla versione Premium, con più impostazioni e il supporto"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:49
+msgid ""
+"If you upgrade your plugin you will get one year of free updates and "
+"support\n"
+"\t\t\t\tthrough our website available 24h/24h. Upgrade and you'll have the "
+"advantage\n"
+"\t\t\t\tof additional features of the premium version."
+msgstr ""
+"Se aggiorni il plugin otterrai un anno di aggiornamenti e supporto\n"
+"\t\t\t\tattraverso il nostro sito 24h/24h. Upgrade per avere più vantaggi\n"
+"\t\t\t\tper la versione premium."
+
+#: ns-admin-options/ns_admin_option_dashboard.php:52
+msgid "Go Premium Now"
+msgstr "Vai alla versione premium"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:58
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:64
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:8
+msgid "PREMIUM VERSION"
+msgstr "VERSIONE PREMIUM"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:11
+msgid "ALL FREE VERSION FEATURES and"
+msgstr "Tutte le FUNZIONI della VERSIONE GRATUITA e"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:11
+msgid ""
+"- Choose a placeholder per categories<br/>\n"
+"\t\t\t- Choose a placeholder per tags<br/>"
+msgstr ""
+"- Scegli un'immagine di placeholder per le categorie<br/>\n"
+"\t\t\t- Scegli un'immagine di placeholder per i tag<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:15
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:8
+msgid "JOIN NS CLUB"
+msgstr "ENTRA IN NS CLUB"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:12
+msgid "– Instant access to all plugins and all themes"
+msgstr "– Accesso istantaneo a tutti i plugin e i temi"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:13
+msgid "– All future plugins and themes are included"
+msgstr "– Tutte le impostazioni permium per i temi e i plugin inclusi"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:14
+msgid "– Unlimited license for all NS products"
+msgstr "– Licenze illimitate per tutti i prodotti NS"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:15
+msgid "– Unlimited download for each products"
+msgstr "– Download illimitati per tutti i prodotti"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:16
+msgid "– Super fast support"
+msgstr "– Supporto superveloce"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:17
+msgid "– Regular update"
+msgstr "– Tutti gli update disponibili"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:20
+msgid "DISCOVER MORE"
+msgstr "SCOPRI DI PIU'"
+
+#: ns-admin-options/ns_settings_custom.php:10
+msgid "Choose an image from your gallery"
+msgstr "Scegli un'immagine dalla tua galleria"
+
+#: ns-admin-options/ns_settings_custom.php:11
+msgid "Open Gallery"
+msgstr "Apri la galleria"
+
+#: ns-admin-options/ns_settings_custom.php:12
+msgid "Set to default"
+msgstr "Imposta a default"
